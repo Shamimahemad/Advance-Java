@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Student Registration form</title>
+<style>
+body {
+	background-color: black;
+	color: black;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+		sans-serif;
+}
+
+table {
+	background-color: aquamarine;
+	color: black;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+		sans-serif;
+}
+</style>
+</head>
+
+<body>
+
+
+	<center>
+		<div style="padding-top: 70px;" />
+		<table>
+			<thead>
+				<td>
+					<form action="registration" method="post">
+
+
+						<h1>Student Registration Form</h1>
+						<br> First Name : <input type="text" name="fname" /><br>
+						<br> Last Name : <input type="text" name="lname" /><br>
+						<br> Email : <input type="text" name="email" /><br>
+						<br> Password : <input type="password" name="pass" /><br>
+						
+						<br> Date OF Birth : <input type="date" name="dt" /><br>
+						<br> Select City : 
+						<select name="city">
+							<option value="n">Select</option>
+							<option value="mumbai">Mumbai</option>
+							<option value="pune">Pune</option>
+							<option value="lucknow">Lucknow</option>
+							<option value="banaras">Banaras</option>
+							<option value="varanashi">Varanashi</option>
+							<option value="amravati">Amravati</option>
+						</select> <br> Gender : <input type="radio" name="gender" value="male" />
+						Male <input type="radio" name="gender" value="female" /> Female <input
+							type="radio" name="Gender" value="other" /> Other <br>
+						Address : <input type="text" name="add" /> <br>
+
+
+
+						<button type="submit" name="btn">Submit</button>
+					</form>
+				</td>
+			</thead>
+		</table>
+</body>
+</center>
+
+</html>
