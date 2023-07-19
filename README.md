@@ -6,4 +6,4 @@
 # DAY6. JSP Notes | Test Connection JDBC
 # DAY7. Custom Tags, EpmloyeeSelection Project | myProject
 # DAY8. Annotation Function, Hibernate and One-to-One Demo
-# DAy9. HibernateCrud , One-to-Many , and Many-to-Many
+# DAY9. HibernateCrud, One-to-Many, and Many-to-Many
