@@ -4,5 +4,5 @@
 # DAY4. User Authentication
 # DAY5. Cookies and Hidden Fields
 # DAY6. JSP Notes | Test Connection JDBC
-# DAy7. Custom Tags, EpmloyeeSelection Project | myProject
-
+# DAY7. Custom Tags, EpmloyeeSelection Project | myProject
+# DAY8. Annotation Function, Hibernate and One-to-One Demo
