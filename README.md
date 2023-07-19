@@ -2,4 +2,5 @@
 # DAY2. Login Authentication and Basic Calculation
 # DAY3. Servlet Demo
 # DAY4. User Authentication
-# DAY5. 
+# DAY5. Cookies and Hidden Fields
+# DAY6. JSP Notes
